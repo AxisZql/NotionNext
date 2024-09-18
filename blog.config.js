@@ -298,19 +298,33 @@ const BLOG = {
 
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
-    {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+     {
+      name: '走走',
+      artist: '李荣浩',
+      url: 'https://music.163.com/song/media/outer/url?id=2608448649.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p2.music.126.net/nmwibhFvFkTlakVoqwO0mA==/109951169786882253.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '任我行',
+      artist: '陈奕迅',
+      url: 'https://music.163.com/song/media/outer/url?id=27483202.mp3',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p1.music.126.net/1itDj9ETx-njdPKTuptrwQ==/19057835044482433.jpg'
+    },
+    {
+      name: '美梦',
+      artist: '温舒娴',
+      url: 'https://music.163.com/song/media/outer/url?id=2034521190.mp3',
+      cover:
+        'https://p2.music.126.net/7w5IL2w8cIKSSU-FGqCSig==/109951168507418251.jpg'
+    },
+    {
+      name: '花语（Flower Words）',
+      artist: '杨楚骁',
+      url: 'https://music.163.com/song/media/outer/url?id=1856385406.mp3',
+      cover:
+        'https://p1.music.126.net/d0OXADs3KDjNkbgQ_Oa-rA==/109951166120950938.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
