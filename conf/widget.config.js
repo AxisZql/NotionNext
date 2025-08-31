@@ -46,7 +46,7 @@ module.exports = {
     {
       name: '任我行',
       artist: '陈奕迅',
-      url: 'https://music.163.com/song/media/outer/url?id=27483202.mp3',
+      url: 'https://my.microsoftpersonalcontent.com/personal/1a320324036c1c26/_layouts/15/download.aspx?UniqueId=9a15f2e9-e393-4cd0-aa54-fbf2f15f280d&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YTAwNjU5NS0wYWE5LTQxOGItOWFiYS0xYmIzZjRkNzE1ZmYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzU2NjMxMzI0In0.Rok5yvB8m4EAQAwIOC8eQCFoyBlI4HPsuNcnw7DNMLKjKjpDe9VEIBHRqq3BXQ_0SU_Ap22jHa134zsi-1vovNBoDtEK1ZYOxkm3-xgFcgxB3HhGznwxyZTKABpcehHsZkk8owNY_cKBwSOF9VvAEKWiqW_IZ4TBOHpfwp1vPXPmLnCi2jF9yGByNQqwFA5qdVUigJzW20hmOxTPLg1s50i6A6vbVCos8MvFhCXwyyALzSc2Qot1czqHgvyd4N-l6qEQfd0DzoCIYtU08JIvkx4fjKYCIbKFBZNKRdJbHmAS7XwBXShfv5Oi4DCrdN_eV23QRdiCB2xMSVMSz-UCsoPSEQ2Js2kmrAKDWzbSS3piUHZvsD160P5dQqwRTVx0QlwP3pjmcJmltdYw_k-w2oZhl9bWo-sGENRGtaKJogWfLMrfBr55FsaZP9D6sePw2Rr-xq4Mvvi4u-nJSbTuhbKbH81QL-TfLd__36h2Q57NJ25m2wspQY0f1rUy1Ko3MnsAhVVx1QN9_1Tx-OEzcw.GZf7-t2sjDK_wZj7KBFLHFVopCer-B1qRPDAxu5Lbz8&ApiVersion=2.',
       cover:
         'https://p1.music.126.net/1itDj9ETx-njdPKTuptrwQ==/19057835044482433.jpg'
     },
