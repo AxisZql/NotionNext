@@ -39,14 +39,14 @@ module.exports = {
      {
       name: '走走',
       artist: '李荣浩',
-      url: 'https://my.microsoftpersonalcontent.com/personal/1a320324036c1c26/_layouts/15/download.aspx?UniqueId=2560582e-a4b6-492e-a820-bb6191aeb010&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YTAwNjU5NS0wYWE5LTQxOGItOWFiYS0xYmIzZjRkNzE1ZmYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzU2NjMyMTkxIn0.QSj4FJJLs6Okn4hnYDZ7FOK09JYd8jBbLCIDSUiC_YDLT_JC9-3kfaVU_ts__uccU7egZCkrWo_D8IoKKGilcm44XJ7IA0k5Uy-CBk3u--LIzehbDp2S3R6FENhfDrDS_oTfAFvdKUFXYxFstZCWTsJ4J26LLBxW4d9EyJIixBItG-Y-ba-7YhLNzNMcjF0fMQQC3I1uVrsiEaavmvUnlSf3fKPlD2XWnNe9JgnmPQXPsZofdTaGnvrPJXm_I7sKj6wMzWJ5YbwZtkZaXIxPrHCYXzbM7WDyy_9dLEGXo30SpRPQjcXio5pU-or6gLTpeoCFccbpWLI1VaYWzs8qRQQOzecTQnT9BwiDw46_ywTR0dtCQVeg82tj5hk3LuL6rB0aIaETWgl-0YqjdOprFgZZTjnJu7_XuBybHqj2GUM442FNkDfIBf5zK4pWKQPDuHzpcNGE56uuao2W6tVxSisBVc4FIPqw4GbU8FfMDO4eomvhWn2rGS86tsL1fqwo5-or4kByRo-4MXhz9PDKmA.38GQpPsGmKcmrnowtU5VcWxkj0L3hNKHG_T-xnFjIoo&ApiVersion=2.0',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E6%9D%8E%E8%8D%A3%E6%B5%A9%20-%20%E8%B5%B0%E8%B5%B0.mp3',
       cover:
         'https://p2.music.126.net/nmwibhFvFkTlakVoqwO0mA==/109951169786882253.jpg'
     },
     {
       name: '任我行',
       artist: '陈奕迅',
-      url: 'https://my.microsoftpersonalcontent.com/personal/1a320324036c1c26/_layouts/15/download.aspx?UniqueId=9a15f2e9-e393-4cd0-aa54-fbf2f15f280d&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YTAwNjU5NS0wYWE5LTQxOGItOWFiYS0xYmIzZjRkNzE1ZmYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzU2NjMxMzI0In0.Rok5yvB8m4EAQAwIOC8eQCFoyBlI4HPsuNcnw7DNMLKjKjpDe9VEIBHRqq3BXQ_0SU_Ap22jHa134zsi-1vovNBoDtEK1ZYOxkm3-xgFcgxB3HhGznwxyZTKABpcehHsZkk8owNY_cKBwSOF9VvAEKWiqW_IZ4TBOHpfwp1vPXPmLnCi2jF9yGByNQqwFA5qdVUigJzW20hmOxTPLg1s50i6A6vbVCos8MvFhCXwyyALzSc2Qot1czqHgvyd4N-l6qEQfd0DzoCIYtU08JIvkx4fjKYCIbKFBZNKRdJbHmAS7XwBXShfv5Oi4DCrdN_eV23QRdiCB2xMSVMSz-UCsoPSEQ2Js2kmrAKDWzbSS3piUHZvsD160P5dQqwRTVx0QlwP3pjmcJmltdYw_k-w2oZhl9bWo-sGENRGtaKJogWfLMrfBr55FsaZP9D6sePw2Rr-xq4Mvvi4u-nJSbTuhbKbH81QL-TfLd__36h2Q57NJ25m2wspQY0f1rUy1Ko3MnsAhVVx1QN9_1Tx-OEzcw.GZf7-t2sjDK_wZj7KBFLHFVopCer-B1qRPDAxu5Lbz8&ApiVersion=2',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E4%BB%BB%E6%88%91%E8%A1%8C.mp3',
       cover:
         'https://p1.music.126.net/1itDj9ETx-njdPKTuptrwQ==/19057835044482433.jpg'
     },
@@ -67,14 +67,14 @@ module.exports = {
     {
       name: 'Wherever you are',
       artist: 'ONE OK ROCK',
-      url: 'https://my.microsoftpersonalcontent.com/personal/1a320324036c1c26/_layouts/15/download.aspx?UniqueId=b2f72afa-a234-4d69-8830-7308422cedb6&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YTAwNjU5NS0wYWE5LTQxOGItOWFiYS0xYmIzZjRkNzE1ZmYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzU2NjMyMTkxIn0.35C0Sx-Os-VR6M57Xo1FgwHLFyfu-i9Tz9Fa_N5njk3JcnASngdTjPvB0NxSnnDUdaco7VQHXE852M5pkAOejCbRfGKc2h52YeVCgFhCYr5NnW8I2CfgGq8jTUClI_MESZCFaVENZk1L_8Gt-SKKYaG1H6IaaQMs7azN7lfoGpAZUrqyX9CFQFBhWZcpEwnyXNmmCRg-g23s-OKoJe8DuW_IHT64ECHpa_2EnM888dmU6UZ3kXAGNH8USK1ePQq_IHFFwU0CkKoNFo_zUZezH6VIYeagXDvRkrDSGN_3_hVVTwTPL47sOJBBurAESvMzvBY_9LyKyuUYqGkVOx5To9s3JtizXrwEzApsokh-7G08UwmxuOErbNVMExOG0SVt4R_n8Nn_suzGnvnitZ1fu90irVzrnHwkDQgu3xUYY300EZo9uncBJXbpLqa5HIl5q_GMuYxf5LZ1SB62FilrkwHWhethD3LVEAEOqcIdDbzRcI5TU235_Z9pIfbaPhca5I6quLpTsXIjFB5--7bVFQ.8S_NZIfGrjnmuEO5A2ah4yaB3z4OicQmuO7vKVmuf3o&ApiVersion=2.0',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/ONE%20OK%20ROCK%20-%20Wherever%20you%20are.mp3',
       cover:
         'https://p2.music.126.net/OusrP6b6F3Kkn3rGEP9mFg==/109951169487843251.jpg'
     },
     {
       name: 'First Love',
       artist: '宇多田ヒカル',
-      url: 'https://my.microsoftpersonalcontent.com/personal/1a320324036c1c26/_layouts/15/download.aspx?UniqueId=99282bdb-c36d-4cd5-b4cf-61a07e4a719d&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YTAwNjU5NS0wYWE5LTQxOGItOWFiYS0xYmIzZjRkNzE1ZmYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzU2NjMyMTkxIn0.1Bm4fQj5Ow22F1eJtPkzb3uwXeRenwK8v6FmemyGKXfwnWqsu63q6YMdKWKtKvSWH2eFmG2V2MRapphAdgX1NroVhJoGakRdjVQdaiwZpo7lkfQGDKZqWpsMn49qSOL_CfuKKuujplqvcXPWPmC0RHcibN85HIylTcT93h7I1VgLvZU23f0ReXigA9HyQPCCBls9HmghbkJh6yuNjNR2ghVC2yP1ekbJVv3ErzSxGO5Hb38C-qww13fvb-NHbMmFNI3zzULMePuu9kyVmTGiNqdTD-JuqhpB2UjusxlA151vCjC6EJ-j8J7VjlOKWoYUaNny5igmS9tvzk9rB-ptpQJXyJUdoBzRyy2wGhi-ZCuVd19yvAK06UszwIeYQYWGHNxuMFGlCr-CqZpMM2PeD15ivYjh_5a2DBVRPz6T4v8jZTdebMO6-EPXEXHHuWFnyHrsovD_ZKGnnlM4aOEMFP9ef8bUg8TfbnySdHlzHdof43j6LSspDeB5f_TD6GGA2QBspWBiBDbX7vYych8pvA.xuG59YK-ghB4J6WwwdBTXxSWyQms8h_1ivBGoFwvxMg&ApiVersion=2.0',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%20-%20First%20Love.mp3',
       cover:
         'https://p2.music.126.net/qoZkuf7BYl4hRi2vSSEXWQ==/109951165561290057.jpg'
     },
