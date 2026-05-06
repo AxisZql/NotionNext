@@ -20,12 +20,12 @@ module.exports = {
     process.env.NEXT_PUBLIC_WIDGET_PET_LINK ||
     'https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json', // 挂件模型地址 @see https://github.com/xiazeyu/live2d-widget-models
   WIDGET_PET_SWITCH_THEME:
-    process.env.NEXT_PUBLIC_WIDGET_PET_SWITCH_THEME || true, // 点击宠物挂件切换博客主题
+    process.env.NEXT_PUBLIC_WIDGET_PET_SWITCH_THEME || false, // 点击宠物挂件切换博客主题
 
   SPOILER_TEXT_TAG: process.env.NEXT_PUBLIC_SPOILER_TEXT_TAG || '', // Spoiler文本隐藏功能，如Notion中 [sp]希望被spoiler的文字[sp]，填入[sp] 即可
 
   // 音乐播放插件
-  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || false, // 是否使用音乐播放插件
+  MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || true, // 是否使用音乐播放插件
   MUSIC_PLAYER_VISIBLE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_VISIBLE || true, // 是否在左下角显示播放和切换，如果使用播放器，打开自动播放再隐藏，就会以类似背景音乐的方式播放，无法取消和暂停
   MUSIC_PLAYER_AUTO_PLAY:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_AUTO_PLAY || true, // 是否自动播放，不过自动播放时常不生效（移动设备不支持自动播放）
@@ -33,23 +33,51 @@ module.exports = {
   MUSIC_PLAYER_CDN_URL:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_CDN_URL ||
     'https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js',
-  MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
-  MUSIC_PLAYER_AUDIO_LIST: [
+  MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'random', // 默认播放方式，顺序 list，随机 random
+  MUSIC_PLAYER_AUDIO_LIST:[
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
-    {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+     {
+      name: '走走',
+      artist: '李荣浩',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E6%9D%8E%E8%8D%A3%E6%B5%A9%20-%20%E8%B5%B0%E8%B5%B0.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p2.music.126.net/nmwibhFvFkTlakVoqwO0mA==/109951169786882253.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '任我行',
+      artist: '陈奕迅',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E4%BB%BB%E6%88%91%E8%A1%8C.mp3',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    }
+        'https://p1.music.126.net/1itDj9ETx-njdPKTuptrwQ==/19057835044482433.jpg'
+    },
+    {
+      name: '美梦',
+      artist: '温舒娴',
+      url: 'https://music.163.com/song/media/outer/url?id=2034521190.mp3',
+      cover:
+        'https://p2.music.126.net/7w5IL2w8cIKSSU-FGqCSig==/109951168507418251.jpg'
+    },
+    {
+      name: '花语（Flower Words）',
+      artist: '杨楚骁',
+      url: 'https://music.163.com/song/media/outer/url?id=1856385406.mp3',
+      cover:
+        'https://p1.music.126.net/d0OXADs3KDjNkbgQ_Oa-rA==/109951166120950938.jpg'
+    },
+    {
+      name: 'Wherever you are',
+      artist: 'ONE OK ROCK',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/ONE%20OK%20ROCK%20-%20Wherever%20you%20are.mp3',
+      cover:
+        'https://p2.music.126.net/OusrP6b6F3Kkn3rGEP9mFg==/109951169487843251.jpg'
+    },
+    {
+      name: 'First Love',
+      artist: '宇多田ヒカル',
+      url: 'https://github.com/AxisZql/python-crawler/raw/refs/heads/main/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%20-%20First%20Love.mp3',
+      cover:
+        'https://p2.music.126.net/qoZkuf7BYl4hRi2vSSEXWQ==/109951165561290057.jpg'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
